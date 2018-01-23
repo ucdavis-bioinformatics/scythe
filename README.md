@@ -69,7 +69,6 @@ If you'd like to use standard out, it is recommended you use the
 
 Also, more detailed output about matches can be obtained with:
 
-<<<<<<< HEAD
     scythe -a adap.fa -o trimmed_sequences.fasta -m matches.txt sequences.fastq
 
 By default, the Sanger fastq quality encoding (phred+33; pipeline >= 1.8) is used. 
@@ -90,7 +89,6 @@ liberal trimming, i.e. of only a few bases.
 
 ## Notes
 
-<<<<<<< HEAD
 Note that the provided adapter sequence files (*_adapters.fa) contain
 non-FASTA characters to denote the locations of barcode sequences,
 which always appear in TruSeq adapters, and may or may not appear in
